@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Informasi berguna!</title>
+        <link rel="stylesheet" href="style.css">
+  </head>
+</head>
+<body>
+    <h1>Ini tajuk yang besar!</h1>
+    <p>Ini hanya satu paragraf teks</p>
+    <h2>Dan ini adalah tajuk yang sedikit lebih kecil</h2>
+             <ul>
+                   <li>Ini adalah elemen dari bullet list (yang pertama)</li>
+                   <li>Dan ini adalah elemen kedua</li>
+             </ul>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/2020_Toyota_Fortuner_2.4_VRZ_TRD_Sportivo_4x2_GUN165R_%2820220215%29.jpg/1200px-2020_Toyota_Fortuner_2.4_VRZ_TRD_Sportivo_4x2_GUN165R_%2820220215%29.jpg?20220226131429">
+</body>
+</html>
